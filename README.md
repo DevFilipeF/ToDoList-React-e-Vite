@@ -15,10 +15,3 @@ Uma aplicação simples de lista de tarefas (ToDo List) feita com **React** e **
 - [Vite](https://vitejs.dev/)
 - HTML + CSS (estilização básica)
 
-## 🛠️ Como rodar o projeto localmente
-
-### 1. Clone o repositório
-
-```bash
-git clone https://github.com/seu-usuario/nome-do-repo.git
-cd nome-do-repo
